@@ -1,0 +1,80 @@
+.allGreen {
+  background-color: rgba(39, 174, 96, 0.3);
+  border: 1px solid #27ae60;
+  color: #27ae60;
+  font-size: medium;
+  border-radius: 20px;
+  padding: 5px 37.5px;
+}
+.allRed {
+  background-color: rgba(255, 8, 8, 0.3);
+  border: 1px solid #ff0808;
+  color: #ff0808;
+  font-size: medium;
+  border-radius: 20px;
+  padding: 5px 10px;
+}
+
+.allAccess {
+  background-color: rgba(39, 174, 96, 0.3);
+  border: 1px solid #27ae60;
+  color: #27ae60;
+  width: 150px;
+  font-size: medium;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.noAccess {
+  background-color: #f2f2f2;
+  border: 1px solid #bdbdbd;
+  color: #bdbdbd;
+  width: 150px;
+  font-size: medium;
+  border-radius: 20px;
+  text-align: center;
+}
+.resAccess {
+  background-color: rgba(255, 8, 8, 0.3);
+  border: 1px solid #ff0808;
+  color: #ff0808;
+  width: 150px;
+  font-size: medium;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.userInfo {
+  /* kishore */
+  text-align: end;
+  font-size: x-large;
+  margin-bottom: 20px;
+}
+
+.styleLink {
+  font-size: 15px;
+  color: black;
+  text-decoration: none;
+}
+
+.hiddenBox {
+  height: 200px;
+  display: flex;
+  width: 100%;
+  transition: all 0.5s;
+  justify-content: flex-start;
+}
+
+.radioBtns {
+  margin-left: 170px;
+}
+.checkboxBtns {
+  margin-left: 100px;
+}
+
+.secondLable {
+  position: relative;
+  top: -18px;
+  left: 30px;
+  opacity: 0.7;
+}

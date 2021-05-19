@@ -5,12 +5,12 @@ const UpperPart = () => {
     <div>
       <div className="userInfo">
         <i className="fas fa-user-circle" style={{ marginRight: 5 }}></i>
-        <span style={{ marginRight: 25 }}>Kishore</span>
+        <span style={{ marginRight: 25 }}>TusharSaini</span>
         <i className="far fa-bell" style={{ marginRight: 10 }}></i>
         <i className="far fa-question-circle" style={{ marginRight: 10 }}></i>
       </div>
       <div>
-        <div className="sync">
+        <div style={{ marginTop: 40 }}>
           <span
             style={{
               color: "#673AB7",
@@ -31,7 +31,7 @@ const UpperPart = () => {
             ></i>
             Apporoval Matrix
           </span>
-          <span style={{ fontSize: 13, position: "relative", left: 650 }}>
+          <span style={{ fontSize: 13, position: "relative", left: 600 }}>
             <i className="fas fa-sync-alt" style={{ marginRight: 5 }}></i>
             Last synced 15 min ago
           </span>

@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/userDashboard/static/css/main.19b12fa0.chunk.css",
-    "main.js": "/userDashboard/static/js/main.7f2c241e.chunk.js",
-    "main.js.map": "/userDashboard/static/js/main.7f2c241e.chunk.js.map",
+    "main.css": "/userDashboard/static/css/main.fdfc120d.chunk.css",
+    "main.js": "/userDashboard/static/js/main.6600a4cc.chunk.js",
+    "main.js.map": "/userDashboard/static/js/main.6600a4cc.chunk.js.map",
     "runtime-main.js": "/userDashboard/static/js/runtime-main.1b9be3e4.js",
     "runtime-main.js.map": "/userDashboard/static/js/runtime-main.1b9be3e4.js.map",
     "static/js/2.7b91306c.chunk.js": "/userDashboard/static/js/2.7b91306c.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.a1e39e39.chunk.js": "/userDashboard/static/js/3.a1e39e39.chunk.js",
     "static/js/3.a1e39e39.chunk.js.map": "/userDashboard/static/js/3.a1e39e39.chunk.js.map",
     "index.html": "/userDashboard/index.html",
-    "static/css/main.19b12fa0.chunk.css.map": "/userDashboard/static/css/main.19b12fa0.chunk.css.map",
+    "static/css/main.fdfc120d.chunk.css.map": "/userDashboard/static/css/main.fdfc120d.chunk.css.map",
     "static/js/2.7b91306c.chunk.js.LICENSE.txt": "/userDashboard/static/js/2.7b91306c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1b9be3e4.js",
     "static/js/2.7b91306c.chunk.js",
-    "static/css/main.19b12fa0.chunk.css",
-    "static/js/main.7f2c241e.chunk.js"
+    "static/css/main.fdfc120d.chunk.css",
+    "static/js/main.6600a4cc.chunk.js"
   ]
 }

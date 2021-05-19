@@ -11,7 +11,7 @@ const MainContainer = () => {
       <Router>
         <UpperPart />
         <hr />
-        <Route path="/" exact component={LowerPart} />
+        <Route path="/userDashboard" exact component={LowerPart} />
         <Route path="/team" exact component={Team} />
       </Router>
     </div>
